@@ -1,0 +1,11 @@
+application.code=AgendamentoWeb
+application.title=AgendamentoWeb
+application.type=widget
+application.description=Rest para consumo
+application.category=Rest
+developer.code=Jeann Sebold
+developer.name=Jeann Sebold
+developer.url=http://www.monditech.com.br
+simple.deploy=false
+application.uiwidget=false
+view.file=/index.html
